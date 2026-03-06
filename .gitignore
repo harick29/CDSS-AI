@@ -1,0 +1,16 @@
+# Dataset images
+benign/
+malignant/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Optional: do not ignore the model if we want to share it, since it's small here.
+# skin_model.h5
